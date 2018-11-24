@@ -1,0 +1,26 @@
+
+body{
+text-align: center;
+}
+.text-test{
+    color: #DC143C;
+}
+
+.text-test{
+  text-align: center; // 文本在容器中居中
+}
+
+.text-test{
+  letter-spacing: .5px;
+}
+
+.text-test{
+  font-size: 35px;
+}
+
+
+
+img{
+	margin-bottom: 22px;
+	margin-top: 10px
+}
